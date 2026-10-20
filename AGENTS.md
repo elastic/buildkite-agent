@@ -1,5 +1,7 @@
 # Buildkite Agent Development Guide
 
+Elastic-specific guidance for this fork is in [AGENTS.elastic.md](AGENTS.elastic.md).
+
 ## Build/Test/Lint Commands
 
 - **Build:** `go build -o buildkite-agent .` or `go run *.go <command>`
